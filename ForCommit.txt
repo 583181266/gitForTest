@@ -1,1 +1,3 @@
 Hello
+FixBug
+git log --pretty=oneline
